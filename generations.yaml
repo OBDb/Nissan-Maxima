@@ -1,0 +1,40 @@
+generations:
+  - name: "First Generation (PU11)"
+    start_year: 1981
+    end_year: 1984
+    description: "The original Maxima wasn't yet a separate model but a trim level of the Datsun 810 (later badged as the Nissan 810 Maxima), featuring a 2.4L inline-six engine. This generation established the model's focus on being a sporty alternative to mainstream family sedans."
+
+  - name: "Second Generation (PU11)"
+    start_year: 1985
+    end_year: 1988
+    description: "The first standalone Maxima model, featuring front-wheel drive and powered by a 3.0L V6 engine. Available in sedan and wagon body styles, it emphasized technology with a digital instrument cluster, optional electronic adjustable suspension, and a talking voice warning system. This generation established the Maxima's position as Nissan's flagship sedan in North America, offering a combination of performance, luxury, and technology."
+
+  - name: "Third Generation (J30)"
+    start_year: 1989
+    end_year: 1994
+    description: "Often considered a high point in the model's history, the third-generation Maxima featured sleek styling and earned the nickname '4-Door Sports Car' (4DSC). Powered by a 3.0L V6 producing 160 horsepower (190 hp in SE trim), it was available with a 5-speed manual or 4-speed automatic transmission. The SE model offered a sport-tuned suspension, limited-slip differential, and distinctive alloy wheels. The interior featured a driver-focused cockpit with straightforward ergonomics and available leather upholstery. This generation cemented the Maxima's reputation for offering sports sedan performance in a practical package at a mainstream price point."
+
+  - name: "Fourth Generation (A32)"
+    start_year: 1995
+    end_year: 1999
+    description: "The fourth-generation Maxima grew in size and refinement, featuring more rounded styling and improved interior quality. Powered by a revised 3.0L V6 now producing 190 horsepower (upgraded to 200 hp in 1999), it maintained available 5-speed manual transmission in SE trim—unusual for its class. This generation introduced a sophisticated multi-link rear suspension improving both handling and ride quality. The interior offered increased space and luxury amenities including available Bose audio system, leather seating, and a power sunroof. This generation successfully balanced increased refinement with engaging driving dynamics, winning Motor Trend's Import Car of the Year award for 1995."
+
+  - name: "Fifth Generation (A33)"
+    start_year: 2000
+    end_year: 2003
+    description: "The fifth-generation Maxima featured evolutionary styling with a more upright greenhouse and formal roofline. Powered by a new 3.0L V6 (VQ30DE) producing 222 horsepower, paired with either a 5-speed manual or 4-speed automatic transmission. This generation introduced a more upscale interior with improved materials, available navigation system, and expanded safety features including side airbags. The Maxima's flagship position in Nissan's sedan lineup was reinforced with premium features and performance that compared favorably to entry-level luxury brands, though competition from the redesigned Altima began to challenge its position within Nissan's lineup."
+
+  - name: "Sixth Generation (A34)"
+    start_year: 2004
+    end_year: 2008
+    description: "The sixth-generation Maxima moved to Nissan's FF-L platform shared with the Altima, featuring distinctive styling with high-mounted taillights and a more aggressive front fascia. Powered by a 3.5L V6 (VQ35DE) producing 265 horsepower, paired with a continuously variable transmission (CVT) or 6-speed manual. This generation faced challenges in distinguishing itself from the increasingly powerful and refined Altima, leading to a stronger emphasis on luxury features including available SkyView fixed glass roof panels, heated steering wheel, and premium audio. The SkyView roof and unusual interior styling with a 'wave' dashboard represented attempts to differentiate the model through distinctive design elements."
+
+  - name: "Seventh Generation (A35)"
+    start_year: 2009
+    end_year: 2014
+    description: "The seventh-generation Maxima featured more dramatic styling with a bold front grille, sculpted body sides, and coupe-like roofline. Powered by a revised 3.5L V6 now producing 290 horsepower, paired exclusively with a CVT optimized for both performance and efficiency. This generation emphasized sport sedan characteristics with a driver-focused cockpit, paddle shifters, and available sport-tuned suspension. Interior quality saw significant improvements with soft-touch materials, available premium leather, and advanced technology including Nissan Hard Drive Navigation with 9.3GB Music Box hard drive. This generation attempted to recapture the '4-Door Sports Car' identity with more distinctive styling and focus on driving engagement."
+
+  - name: "Eighth Generation (A36)"
+    start_year: 2015
+    end_year: 2023
+    description: "The eighth and final Maxima generation featured dramatically aggressive styling with a floating roof design, boomerang-shaped lighting elements, and deeply sculpted body sides. Powered by a revised 3.5L V6 producing 300 horsepower, paired exclusively with a retuned CVT featuring simulated shift points and available paddle shifters. The chassis featured increased use of high-strength steel and aluminum components for improved rigidity and reduced weight. The interior represented a significant upgrade with premium materials, NASA-inspired 'Zero Gravity' front seats, and advanced technology including an 8-inch touchscreen infotainment system. Later model years added Nissan Safety Shield 360 with comprehensive driver assistance features and ProPILOT Assist semi-autonomous driving capability. Special editions in the final years included the 40th Anniversary Edition commemorating the model's history. Production ended in 2023 as Nissan consolidated its sedan lineup and consumer preferences shifted toward crossovers and SUVs."

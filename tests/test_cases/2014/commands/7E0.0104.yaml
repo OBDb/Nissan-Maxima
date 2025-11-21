@@ -1,0 +1,32 @@
+command_id: 7E0.0104
+test_cases:
+- expected_values:
+    LOAD_PCT: 18.03922
+  response: 7E80341042E
+- expected_values:
+    LOAD_PCT: 20.39216
+  response: '7E803410434'
+- expected_values:
+    LOAD_PCT: 22.35294
+  response: '7E803410439'
+- expected_values:
+    LOAD_PCT: 23.52941
+  response: 7E80341043C
+- expected_values:
+    LOAD_PCT: 28.23529
+  response: '7E803410448'
+- expected_values:
+    LOAD_PCT: 30.19608
+  response: 7E80341044D
+- expected_values:
+    LOAD_PCT: 30.58824
+  response: 7E80341044E
+- expected_values:
+    LOAD_PCT: 30.98039
+  response: 7E80341044F
+- expected_values:
+    LOAD_PCT: 53.72549
+  response: '7E803410489'
+- expected_values:
+    LOAD_PCT: 64.70588
+  response: 7E8034104A5

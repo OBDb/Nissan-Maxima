@@ -1,0 +1,14 @@
+command_id: DB33.221146|din=C0,dout=81
+test_cases:
+- expected_values:
+    NI_EVAP_CLOSE: 131
+  response: '7E8 04 62 11 46 83 '
+- expected_values:
+    NI_EVAP_CLOSE: 0
+  response: '7E80462114600'
+- expected_values:
+    NI_EVAP_CLOSE: 131
+  response: '7E80462114683'
+- expected_values:
+    NI_EVAP_CLOSE: 135
+  response: '7E80462114687'

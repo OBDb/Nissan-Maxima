@@ -4,5 +4,5 @@ test_cases:
     NI_FLI: 5.4902
   response: 7E8046211140E
 - expected_values:
-    NI_FLI: 23.13725
-  response: 7E8046211143B
+    NI_FLI: 28.62745
+  response: '7E80462111449'

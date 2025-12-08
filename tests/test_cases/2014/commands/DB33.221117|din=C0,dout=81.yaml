@@ -1,8 +1,8 @@
 command_id: DB33.221117|din=C0,dout=81
 test_cases:
 - expected_values:
-    NI_LOAD: 17.2549
-  response: 7E8046211172C
+    NI_LOAD: 16.86275
+  response: 7E8046211172B
 - expected_values:
     NI_LOAD: 96.47059
   response: 7E804621117F6

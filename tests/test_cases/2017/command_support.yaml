@@ -74,6 +74,7 @@ supported_commands_by_ecu:
   - 7E0.011C:OBDSUP
   - 7E0.011F:RUNTM
   - 7E0.0121:MIL_DIST
+  - 7E0.0124:LAMBDA11_VOLT,O2S11_VOLT
   - 7E0.012E:EVAP_PCT
   - 7E0.012F:FLI
   - 7E0.0130:WARM_UPS
@@ -105,6 +106,7 @@ supported_commands_by_ecu:
   - 7E0.7E8.221115|din=C0,dout=81:NI_EVAP_P
   - 7E0.7E8.221117|din=C0,dout=81:NI_LOAD
   - 7E0.7E8.22111A|din=C0,dout=81:NI_O2S12
+  - 7E0.7E8.22111F
   - 7E0.7E8.22111F|din=C0,dout=81:NI_EOT
   - 7E0.7E8.221123|din=C0,dout=81:NI_STFT1
   - 7E0.7E8.221125|din=C0,dout=81:NI_LTFT1

@@ -4,5 +4,5 @@ test_cases:
     NI_LOAD: 16.86275
   response: 7E8046211172B
 - expected_values:
-    NI_LOAD: 96.47059
-  response: 7E804621117F6
+    NI_LOAD: 100
+  response: 7E804621117FF

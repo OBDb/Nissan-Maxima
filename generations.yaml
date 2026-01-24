@@ -1,10 +1,13 @@
+references:
+  - "https://en.wikipedia.org/wiki/Nissan_Maxima"
+
 generations:
-  - name: "First Generation (PU11)"
+  - name: "First Generation (G910)"
     start_year: 1981
     end_year: 1984
     description: "The original Maxima wasn't yet a separate model but a trim level of the Datsun 810 (later badged as the Nissan 810 Maxima), featuring a 2.4L inline-six engine. This generation established the model's focus on being a sporty alternative to mainstream family sedans."
 
-  - name: "Second Generation (PU11)"
+  - name: "Second Generation (U11)"
     start_year: 1985
     end_year: 1988
     description: "The first standalone Maxima model, featuring front-wheel drive and powered by a 3.0L V6 engine. Available in sedan and wagon body styles, it emphasized technology with a digital instrument cluster, optional electronic adjustable suspension, and a talking voice warning system. This generation established the Maxima's position as Nissan's flagship sedan in North America, offering a combination of performance, luxury, and technology."

@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     NISSAN_TCM_LUBE_P: 620
   response: 7E90462110D3E
+- expected_values:
+    NISSAN_TCM_LUBE_P: -500
+  response: 7E90462110DCE
+- expected_values:
+    NISSAN_TCM_LUBE_P: -20
+  response: 7E90462110DFE

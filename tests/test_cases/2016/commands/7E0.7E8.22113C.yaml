@@ -4,17 +4,5 @@ test_cases:
     NISSAN_IGN_ADVANCE: 34
   response: 7E80462113C4E
 - expected_values:
-    NISSAN_IGN_ADVANCE: 30
-  response: 7E80462113C52
-- expected_values:
-    NISSAN_IGN_ADVANCE: 25
-  response: 7E80462113C57
-- expected_values:
-    NISSAN_IGN_ADVANCE: 22
-  response: 7E80462113C5A
-- expected_values:
-    NISSAN_IGN_ADVANCE: 16
-  response: 7E80462113C60
-- expected_values:
-    NISSAN_IGN_ADVANCE: 14
-  response: 7E80462113C62
+    NISSAN_IGN_ADVANCE: 10
+  response: 7E80462113C66

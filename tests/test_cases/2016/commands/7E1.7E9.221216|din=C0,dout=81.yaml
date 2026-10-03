@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     NISSAN_TCM_TQ_RAT: 0.9232
   response: '7E9056212160100'
+- expected_values:
+    NISSAN_TCM_TQ_RAT: 0.93041
+  response: '7E9056212160102'
+- expected_values:
+    NISSAN_TCM_TQ_RAT: 1.04942
+  response: '7E9056212160123'
+- expected_values:
+    NISSAN_TCM_TQ_RAT: 1.76706
+  response: 7E90562121601EA
+- expected_values:
+    NISSAN_TCM_TQ_RAT: 1.77067
+  response: 7E90562121601EB

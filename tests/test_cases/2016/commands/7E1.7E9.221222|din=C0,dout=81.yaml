@@ -2,16 +2,7 @@ command_id: 7E1.7E9.221222|din=C0,dout=81
 test_cases:
 - expected_values:
     NISSAN_TCM_SEC_SOL_MON: 0
-  response: 7E90562122200C7
-- expected_values:
-    NISSAN_TCM_SEC_SOL_MON: 0
-  response: 7E90562122200C9
-- expected_values:
-    NISSAN_TCM_SEC_SOL_MON: 0
-  response: 7E90562122200CA
-- expected_values:
-    NISSAN_TCM_SEC_SOL_MON: 0
-  response: 7E90562122200CB
+  response: '7E9056212220050'
 - expected_values:
     NISSAN_TCM_SEC_SOL_MON: 0
   response: 7E90562122200CD

@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.221215|din=C0,dout=81
+test_cases:
+- expected_values:
+    NISSAN_TCM_PRI_TQ: 40.1
+  response: '7E9056212150191'
+- expected_values:
+    NISSAN_TCM_PRI_TQ: 138
+  response: '7E9056212150564'
+- expected_values:
+    NISSAN_TCM_PRI_TQ: 141.7
+  response: '7E9056212150589'
+- expected_values:
+    NISSAN_TCM_PRI_TQ: 149.9
+  response: 7E90562121505DB
+- expected_values:
+    NISSAN_TCM_PRI_TQ: 152.3
+  response: 7E90562121505F3
+- expected_values:
+    NISSAN_TCM_PRI_TQ: 158.8
+  response: '7E9056212150634'

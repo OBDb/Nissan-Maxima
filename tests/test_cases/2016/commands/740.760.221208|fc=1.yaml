@@ -1,0 +1,17 @@
+command_id: 740.760.221208|fc=1
+test_cases:
+- expected_values:
+    NISSAN_ABS_STEER_ANG: 3.8
+  response: '760056212080026'
+- expected_values:
+    NISSAN_ABS_STEER_ANG: 5.4
+  response: '760056212080036'
+- expected_values:
+    NISSAN_ABS_STEER_ANG: 6
+  response: 76005621208003C
+- expected_values:
+    NISSAN_ABS_STEER_ANG: 6.5
+  response: '760056212080041'
+- expected_values:
+    NISSAN_ABS_STEER_ANG: 28
+  response: '760056212080118'

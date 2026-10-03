@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.221205|din=C0,dout=81
+test_cases:
+- expected_values:
+    NISSAN_TCM_SEC_P_V: 0.7869
+  response: 7E90562120500A1
+- expected_values:
+    NISSAN_TCM_SEC_P_V: 0.826
+  response: 7E90562120500A9
+- expected_values:
+    NISSAN_TCM_SEC_P_V: 0.83089
+  response: 7E90562120500AA
+- expected_values:
+    NISSAN_TCM_SEC_P_V: 0.84066
+  response: 7E90562120500AC
+- expected_values:
+    NISSAN_TCM_SEC_P_V: 0.91398
+  response: 7E90562120500BB
+- expected_values:
+    NISSAN_TCM_SEC_P_V: 0.94819
+  response: 7E90562120500C2

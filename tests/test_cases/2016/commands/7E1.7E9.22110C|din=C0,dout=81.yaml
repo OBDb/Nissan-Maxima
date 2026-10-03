@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.22110C|din=C0,dout=81
+test_cases:
+- expected_values:
+    NISSAN_TCM_ATF_T: 84
+  response: 7E90462110C7C
+- expected_values:
+    NISSAN_TCM_ATF_T: 87
+  response: 7E90462110C7F
+- expected_values:
+    NISSAN_TCM_ATF_T: 89
+  response: 7E90462110C81
+- expected_values:
+    NISSAN_TCM_ATF_T: 91
+  response: 7E90462110C83

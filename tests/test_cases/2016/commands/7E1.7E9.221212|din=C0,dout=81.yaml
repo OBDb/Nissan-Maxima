@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.221212|din=C0,dout=81
+test_cases:
+- expected_values:
+    NISSAN_TCM_ENG_TQ_ACT: 64.5
+  response: '7E9056212120285'
+- expected_values:
+    NISSAN_TCM_ENG_TQ_ACT: 140.5
+  response: 7E905621212057D
+- expected_values:
+    NISSAN_TCM_ENG_TQ_ACT: 145
+  response: 7E90562121205AA
+- expected_values:
+    NISSAN_TCM_ENG_TQ_ACT: 149
+  response: 7E90562121205D2
+- expected_values:
+    NISSAN_TCM_ENG_TQ_ACT: 150.5
+  response: 7E90562121205E1
+- expected_values:
+    NISSAN_TCM_ENG_TQ_ACT: 164.5
+  response: 7E905621212066D

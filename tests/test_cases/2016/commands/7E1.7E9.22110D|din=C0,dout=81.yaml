@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.22110D|din=C0,dout=81
+test_cases:
+- expected_values:
+    NISSAN_TCM_LUBE_P: 490
+  response: 7E90462110D31
+- expected_values:
+    NISSAN_TCM_LUBE_P: 560
+  response: 7E90462110D38
+- expected_values:
+    NISSAN_TCM_LUBE_P: 580
+  response: 7E90462110D3A
+- expected_values:
+    NISSAN_TCM_LUBE_P: 590
+  response: 7E90462110D3B
+- expected_values:
+    NISSAN_TCM_LUBE_P: 600
+  response: 7E90462110D3C
+- expected_values:
+    NISSAN_TCM_LUBE_P: 620
+  response: 7E90462110D3E

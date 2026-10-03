@@ -4,11 +4,5 @@ test_cases:
     NISSAN_TCM_ATF_T_V: 0.74291
   response: '7E9056212070098'
 - expected_values:
-    NISSAN_TCM_ATF_T_V: 0.76246
-  response: 7E905621207009C
-- expected_values:
-    NISSAN_TCM_ATF_T_V: 0.79668
-  response: 7E90562120700A3
-- expected_values:
-    NISSAN_TCM_ATF_T_V: 0.85533
-  response: 7E90562120700AF
+    NISSAN_TCM_ATF_T_V: 1.01173
+  response: 7E90562120700CF

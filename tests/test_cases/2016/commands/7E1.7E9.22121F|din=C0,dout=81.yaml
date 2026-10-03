@@ -2,16 +2,7 @@ command_id: 7E1.7E9.22121F|din=C0,dout=81
 test_cases:
 - expected_values:
     NISSAN_TCM_SOL_MON_2: 0
-  response: 7E90562121F00AD
+  response: 7E90562121F0018
 - expected_values:
     NISSAN_TCM_SOL_MON_2: 0
-  response: 7E90562121F00AF
-- expected_values:
-    NISSAN_TCM_SOL_MON_2: 0
-  response: 7E90562121F00B0
-- expected_values:
-    NISSAN_TCM_SOL_MON_2: 0
-  response: 7E90562121F00C2
-- expected_values:
-    NISSAN_TCM_SOL_MON_2: 0
-  response: 7E90562121F00C5
+  response: 7E90562121F00C9

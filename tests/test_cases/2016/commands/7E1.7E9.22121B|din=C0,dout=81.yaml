@@ -1,14 +1,8 @@
 command_id: 7E1.7E9.22121B|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_PRI_SOL_C: 0.002
-  response: 7E90562121B02DF
-- expected_values:
-    NISSAN_TCM_PRI_SOL_C: 0.002
-  response: 7E90562121B02E1
-- expected_values:
-    NISSAN_TCM_PRI_SOL_C: 0.002
-  response: 7E90562121B02E2
+    NISSAN_TCM_PRI_SOL_C: 0.001
+  response: 7E90562121B01DB
 - expected_values:
     NISSAN_TCM_PRI_SOL_C: 0.002
   response: 7E90562121B02E7

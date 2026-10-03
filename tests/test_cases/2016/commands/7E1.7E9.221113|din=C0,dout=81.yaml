@@ -10,6 +10,9 @@ test_cases:
     NISSAN_TCM_REQ_TQ: -90
   response: 7E904621113A1
 - expected_values:
+    NISSAN_TCM_REQ_TQ: -26
+  response: 7E904621113C1
+- expected_values:
     NISSAN_TCM_REQ_TQ: -6
   response: 7E904621113CB
 - expected_values:

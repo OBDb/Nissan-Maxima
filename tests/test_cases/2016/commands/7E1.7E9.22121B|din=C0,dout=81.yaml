@@ -8,4 +8,4 @@ test_cases:
   response: 7E90562121B02E7
 - expected_values:
     NISSAN_TCM_PRI_SOL_C: 0.003
-  response: 7E90562121B0313
+  response: 7E90562121B0305

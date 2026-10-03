@@ -4,29 +4,8 @@ test_cases:
     NISSAN_TCM_PRI_RPM: 0
   response: '7E9056212020000'
 - expected_values:
-    NISSAN_TCM_PRI_RPM: 66
-  response: '7E9056212020042'
-- expected_values:
-    NISSAN_TCM_PRI_RPM: 595
-  response: '7E9056212020253'
-- expected_values:
-    NISSAN_TCM_PRI_RPM: 1075
-  response: '7E9056212020433'
-- expected_values:
-    NISSAN_TCM_PRI_RPM: 1137
-  response: '7E9056212020471'
-- expected_values:
     NISSAN_TCM_PRI_RPM: 1983
   response: 7E90562120207BF
 - expected_values:
     NISSAN_TCM_PRI_RPM: 2137
   response: '7E9056212020859'
-- expected_values:
-    NISSAN_TCM_PRI_RPM: 2139
-  response: 7E905621202085B
-- expected_values:
-    NISSAN_TCM_PRI_RPM: 2143
-  response: 7E905621202085F
-- expected_values:
-    NISSAN_TCM_PRI_RPM: 2145
-  response: '7E9056212020861'

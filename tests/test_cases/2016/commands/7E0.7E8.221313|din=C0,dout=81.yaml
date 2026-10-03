@@ -3,8 +3,20 @@ test_cases:
 - expected_values:
     NISSAN_COOLING_FAN_HIGH: 0
     NISSAN_COOLING_FAN_LOW: 0
+  response: 7E805621313001F
+- expected_values:
+    NISSAN_COOLING_FAN_HIGH: 1
+    NISSAN_COOLING_FAN_LOW: 1
+  response: 7E805621313071F
+- expected_values:
+    NISSAN_COOLING_FAN_HIGH: 0
+    NISSAN_COOLING_FAN_LOW: 0
   response: 7E805621313101F
 - expected_values:
     NISSAN_COOLING_FAN_HIGH: 0
     NISSAN_COOLING_FAN_LOW: 1
   response: 7E805621313161F
+- expected_values:
+    NISSAN_COOLING_FAN_HIGH: 1
+    NISSAN_COOLING_FAN_LOW: 1
+  response: 7E805621313171F

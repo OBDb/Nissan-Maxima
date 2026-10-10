@@ -4,8 +4,8 @@ test_cases:
     NISSAN_TCM_SEC_RPM_2: 42
   response: 7E90562120E002A
 - expected_values:
-    NISSAN_TCM_SEC_RPM_2: 963
-  response: 7E90562120E03C3
+    NISSAN_TCM_SEC_RPM_2: 218
+  response: 7E90562120E00DA
 - expected_values:
     NISSAN_TCM_SEC_RPM_2: 5263
   response: 7E90562120E148F

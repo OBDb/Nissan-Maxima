@@ -13,6 +13,12 @@ test_cases:
     NISSAN_TCM_ATF_T: 80
   response: 7E90462110C78
 - expected_values:
+    NISSAN_TCM_ATF_T: 81
+  response: 7E90462110C79
+- expected_values:
+    NISSAN_TCM_ATF_T: 82
+  response: 7E90462110C7A
+- expected_values:
     NISSAN_TCM_ATF_T: 84
   response: 7E90462110C7C
 - expected_values:

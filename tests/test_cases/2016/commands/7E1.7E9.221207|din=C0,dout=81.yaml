@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.221207|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_ATF_T_V: 0.74291
+    MAXIMA_TCM_ATF_T_V: 0.74291
   response: '7E9056212070098'
 - expected_values:
-    NISSAN_TCM_ATF_T_V: 1.04106
+    MAXIMA_TCM_ATF_T_V: 1.04106
   response: 7E90562120700D5

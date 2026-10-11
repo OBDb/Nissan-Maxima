@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221205|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 0.7869
+    MAXIMA_TCM_SEC_P_V: 0.7869
   response: 7E90562120500A1
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 1.24633
+    MAXIMA_TCM_SEC_P_V: 1.24633
   response: 7E90562120500FF
 - expected_values:
-    NISSAN_TCM_SEC_P_V: 1.26588
+    MAXIMA_TCM_SEC_P_V: 1.26588
   response: '7E9056212050103'

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221225
 test_cases:
 - expected_values:
-    NISSAN_UP_OXYGEN_SENS_V: 2.005
+    MAXIMA_UP_OXYGEN_SENS_V: 2.005
   response: '7E8056212250191'
 - expected_values:
-    NISSAN_UP_OXYGEN_SENS_V: 2.235
+    MAXIMA_UP_OXYGEN_SENS_V: 2.235
   response: 7E80562122501BF

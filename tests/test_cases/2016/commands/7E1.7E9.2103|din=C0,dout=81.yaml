@@ -1,17 +1,17 @@
 command_id: 7E1.7E9.2103|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TRANS_ATF: 4672
+    MAXIMA_TRANS_ATF: 4672
   response: '7E906610300001240'
 - expected_values:
-    NISSAN_TRANS_ATF: 4673
+    MAXIMA_TRANS_ATF: 4673
   response: '7E906610300001241'
 - expected_values:
-    NISSAN_TRANS_ATF: 4674
+    MAXIMA_TRANS_ATF: 4674
   response: '7E906610300001242'
 - expected_values:
-    NISSAN_TRANS_ATF: 4698
+    MAXIMA_TRANS_ATF: 4698
   response: 7E90661030000125A
 - expected_values:
-    NISSAN_TRANS_ATF: 4707
+    MAXIMA_TRANS_ATF: 4707
   response: '7E906610300001263'

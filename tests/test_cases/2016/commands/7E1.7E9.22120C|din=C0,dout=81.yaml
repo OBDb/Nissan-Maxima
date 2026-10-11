@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.22120C|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_INPUT_RPM_2: 16
+    MAXIMA_TCM_INPUT_RPM_2: 16
   response: 7E90562120C0010
 - expected_values:
-    NISSAN_TCM_INPUT_RPM_2: 770
+    MAXIMA_TCM_INPUT_RPM_2: 770
   response: 7E90562120C0302
 - expected_values:
-    NISSAN_TCM_INPUT_RPM_2: 2041
+    MAXIMA_TCM_INPUT_RPM_2: 2041
   response: 7E90562120C07F9
 - expected_values:
-    NISSAN_TCM_INPUT_RPM_2: 2129
+    MAXIMA_TCM_INPUT_RPM_2: 2129
   response: 7E90562120C0851

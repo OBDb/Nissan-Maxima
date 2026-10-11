@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22111F
+test_cases:
+- expected_values:
+    MAXIMA_VARIABLE_VLV_TIM_OIL_T: 9
+  response: 7E80462111F3B
+- expected_values:
+    MAXIMA_VARIABLE_VLV_TIM_OIL_T: 101
+  response: 7E80462111F97

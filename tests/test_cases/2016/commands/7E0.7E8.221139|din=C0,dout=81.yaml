@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221139|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_CAM_DUTY_B2: 0
+    MAXIMA_CAM_DUTY_B2: 0
   response: '7E80462113900'
 - expected_values:
-    NISSAN_CAM_DUTY_B2: 29.29688
+    MAXIMA_CAM_DUTY_B2: 29.29688
   response: 7E8046211394B
 - expected_values:
-    NISSAN_CAM_DUTY_B2: 30.07812
+    MAXIMA_CAM_DUTY_B2: 30.07812
   response: 7E8046211394D
 - expected_values:
-    NISSAN_CAM_DUTY_B2: 41.40625
+    MAXIMA_CAM_DUTY_B2: 41.40625
   response: 7E8046211396A

@@ -1,26 +1,26 @@
 command_id: 7E1.7E9.221102|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_VSS_EST: 0
+    MAXIMA_TCM_VSS_EST: 0
   response: '7E90462110200'
 - expected_values:
-    NISSAN_TCM_VSS_EST: 1
+    MAXIMA_TCM_VSS_EST: 1
   response: '7E90462110201'
 - expected_values:
-    NISSAN_TCM_VSS_EST: 4
+    MAXIMA_TCM_VSS_EST: 4
   response: '7E90462110204'
 - expected_values:
-    NISSAN_TCM_VSS_EST: 8
+    MAXIMA_TCM_VSS_EST: 8
   response: '7E90462110208'
 - expected_values:
-    NISSAN_TCM_VSS_EST: 10
+    MAXIMA_TCM_VSS_EST: 10
   response: 7E9046211020A
 - expected_values:
-    NISSAN_TCM_VSS_EST: 22
+    MAXIMA_TCM_VSS_EST: 22
   response: '7E90462110216'
 - expected_values:
-    NISSAN_TCM_VSS_EST: 97
+    MAXIMA_TCM_VSS_EST: 97
   response: '7E90462110261'
 - expected_values:
-    NISSAN_TCM_VSS_EST: 124
+    MAXIMA_TCM_VSS_EST: 124
   response: 7E9046211027C

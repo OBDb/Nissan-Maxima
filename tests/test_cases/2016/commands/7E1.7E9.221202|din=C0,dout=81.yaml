@@ -4,8 +4,8 @@ test_cases:
     MAXIMA_TCM_PRI_RPM: 0
   response: '7E9056212020000'
 - expected_values:
-    MAXIMA_TCM_PRI_RPM: 1983
-  response: 7E90562120207BF
+    MAXIMA_TCM_PRI_RPM: 1250
+  response: 7E90562120204E2
 - expected_values:
-    MAXIMA_TCM_PRI_RPM: 2137
-  response: '7E9056212020859'
+    MAXIMA_TCM_PRI_RPM: 2059
+  response: 7E905621202080B

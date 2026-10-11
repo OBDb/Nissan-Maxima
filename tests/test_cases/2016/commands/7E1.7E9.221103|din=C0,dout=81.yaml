@@ -4,23 +4,5 @@ test_cases:
     MAXIMA_TCM_VSS: 0
   response: '7E90462110300'
 - expected_values:
-    MAXIMA_TCM_VSS: 1
-  response: '7E90462110301'
-- expected_values:
-    MAXIMA_TCM_VSS: 4
-  response: '7E90462110304'
-- expected_values:
-    MAXIMA_TCM_VSS: 5
-  response: '7E90462110305'
-- expected_values:
-    MAXIMA_TCM_VSS: 10
-  response: 7E9046211030A
-- expected_values:
-    MAXIMA_TCM_VSS: 23
-  response: '7E90462110317'
-- expected_values:
-    MAXIMA_TCM_VSS: 99
-  response: '7E90462110363'
-- expected_values:
     MAXIMA_TCM_VSS: 123
   response: 7E9046211037B

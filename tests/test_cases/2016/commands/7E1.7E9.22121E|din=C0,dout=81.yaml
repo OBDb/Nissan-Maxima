@@ -5,10 +5,19 @@ test_cases:
   response: 7E90562121E0001
 - expected_values:
     MAXIMA_TCM_SOL_MON_1: 0
+  response: 7E90562121E0053
+- expected_values:
+    MAXIMA_TCM_SOL_MON_1: 0
   response: 7E90562121E005A
 - expected_values:
     MAXIMA_TCM_SOL_MON_1: 0
+  response: 7E90562121E006B
+- expected_values:
+    MAXIMA_TCM_SOL_MON_1: 0
   response: 7E90562121E008E
+- expected_values:
+    MAXIMA_TCM_SOL_MON_1: 0
+  response: 7E90562121E0096
 - expected_values:
     MAXIMA_TCM_SOL_MON_1: 0
   response: 7E90562121E0098

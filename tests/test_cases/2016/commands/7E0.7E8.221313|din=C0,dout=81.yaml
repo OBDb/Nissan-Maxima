@@ -5,6 +5,14 @@ test_cases:
     MAXIMA_COOLING_FAN_LOW: 0
   response: 7E805621313001F
 - expected_values:
+    MAXIMA_COOLING_FAN_HIGH: 0
+    MAXIMA_COOLING_FAN_LOW: 1
+  response: 7E805621313041F
+- expected_values:
+    MAXIMA_COOLING_FAN_HIGH: 0
+    MAXIMA_COOLING_FAN_LOW: 1
+  response: 7E805621313061F
+- expected_values:
     MAXIMA_COOLING_FAN_HIGH: 1
     MAXIMA_COOLING_FAN_LOW: 1
   response: 7E805621313071F

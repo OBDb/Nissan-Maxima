@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221124|din=C0,dout=81
 test_cases:
 - expected_values:
-    MAXIMA_AF_ADJ_B2: -2
-  response: '7E80462112462'
+    MAXIMA_AF_ADJ_B2: -9
+  response: 7E8046211245B
 - expected_values:
     MAXIMA_AF_ADJ_B2: 13
   response: '7E80462112471'

@@ -4,8 +4,8 @@ test_cases:
     MAXIMA_TCM_ENG_TQ_TX: 12
   response: '7E9056212130078'
 - expected_values:
-    MAXIMA_TCM_ENG_TQ_TX: 24
-  response: 7E90562121300F0
+    MAXIMA_TCM_ENG_TQ_TX: 76
+  response: 7E90562121302F8
 - expected_values:
     MAXIMA_TCM_ENG_TQ_TX: 128
   response: '7E9056212130500'

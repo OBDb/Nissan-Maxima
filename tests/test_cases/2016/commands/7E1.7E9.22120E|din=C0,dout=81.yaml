@@ -4,8 +4,8 @@ test_cases:
     MAXIMA_TCM_SEC_RPM_2: 42
   response: 7E90562120E002A
 - expected_values:
-    MAXIMA_TCM_SEC_RPM_2: 218
-  response: 7E90562120E00DA
+    MAXIMA_TCM_SEC_RPM_2: 2022
+  response: 7E90562120E07E6
 - expected_values:
     MAXIMA_TCM_SEC_RPM_2: 5263
   response: 7E90562120E148F

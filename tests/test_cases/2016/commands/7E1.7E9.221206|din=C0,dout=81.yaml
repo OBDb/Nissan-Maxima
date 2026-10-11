@@ -7,5 +7,5 @@ test_cases:
     MAXIMA_TCM_PRI_P_V: 1.23167
   response: 7E90562120600FC
 - expected_values:
-    MAXIMA_TCM_PRI_P_V: 1.32942
-  response: '7E9056212060110'
+    MAXIMA_TCM_PRI_P_V: 1.28055
+  response: '7E9056212060106'

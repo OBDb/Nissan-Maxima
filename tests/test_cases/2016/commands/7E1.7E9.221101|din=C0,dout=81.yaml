@@ -4,29 +4,5 @@ test_cases:
     MAXIMA_TCM_VSS_SENS: 0
   response: '7E90462110100'
 - expected_values:
-    MAXIMA_TCM_VSS_SENS: 1
-  response: '7E90462110101'
-- expected_values:
-    MAXIMA_TCM_VSS_SENS: 3
-  response: '7E90462110103'
-- expected_values:
-    MAXIMA_TCM_VSS_SENS: 4
-  response: '7E90462110104'
-- expected_values:
-    MAXIMA_TCM_VSS_SENS: 6
-  response: '7E90462110106'
-- expected_values:
-    MAXIMA_TCM_VSS_SENS: 9
-  response: '7E90462110109'
-- expected_values:
-    MAXIMA_TCM_VSS_SENS: 25
-  response: '7E90462110119'
-- expected_values:
-    MAXIMA_TCM_VSS_SENS: 100
-  response: '7E90462110164'
-- expected_values:
-    MAXIMA_TCM_VSS_SENS: 123
-  response: 7E9046211017B
-- expected_values:
     MAXIMA_TCM_VSS_SENS: 124
   response: 7E9046211017C

@@ -4,5 +4,8 @@ test_cases:
     MAXIMA_TCM_ATF_T_V: 0.74291
   response: '7E9056212070098'
 - expected_values:
-    MAXIMA_TCM_ATF_T_V: 1.04106
-  response: 7E90562120700D5
+    MAXIMA_TCM_ATF_T_V: 1.13881
+  response: 7E90562120700E9
+- expected_values:
+    MAXIMA_TCM_ATF_T_V: 1.4174
+  response: '7E9056212070122'

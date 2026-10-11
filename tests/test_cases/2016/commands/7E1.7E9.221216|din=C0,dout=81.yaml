@@ -7,6 +7,9 @@ test_cases:
     MAXIMA_TCM_TQ_RAT: 0.93041
   response: '7E9056212160102'
 - expected_values:
+    MAXIMA_TCM_TQ_RAT: 0.99893
+  response: '7E9056212160115'
+- expected_values:
     MAXIMA_TCM_TQ_RAT: 1.04942
   response: '7E9056212160123'
 - expected_values:

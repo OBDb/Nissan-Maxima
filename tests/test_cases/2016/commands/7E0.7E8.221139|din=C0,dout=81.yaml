@@ -4,6 +4,9 @@ test_cases:
     MAXIMA_CAM_DUTY_B2: 0
   response: '7E80462113900'
 - expected_values:
+    MAXIMA_CAM_DUTY_B2: 22.65625
+  response: 7E8046211393A
+- expected_values:
     MAXIMA_CAM_DUTY_B2: 29.29688
   response: 7E8046211394B
 - expected_values:

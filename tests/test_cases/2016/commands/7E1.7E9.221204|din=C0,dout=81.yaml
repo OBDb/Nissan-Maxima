@@ -4,8 +4,8 @@ test_cases:
     MAXIMA_TCM_RPM: 643
   response: '7E9056212040283'
 - expected_values:
-    MAXIMA_TCM_RPM: 746
-  response: 7E90562120402EA
+    MAXIMA_TCM_RPM: 753
+  response: 7E90562120402F1
 - expected_values:
     MAXIMA_TCM_RPM: 2056
   response: '7E9056212040808'

@@ -7,8 +7,8 @@ test_cases:
     MAXIMA_TCM_INPUT_RPM_2: 770
   response: 7E90562120C0302
 - expected_values:
-    MAXIMA_TCM_INPUT_RPM_2: 2041
-  response: 7E90562120C07F9
+    MAXIMA_TCM_INPUT_RPM_2: 2044
+  response: 7E90562120C07FC
 - expected_values:
     MAXIMA_TCM_INPUT_RPM_2: 2129
   response: 7E90562120C0851

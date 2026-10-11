@@ -10,5 +10,5 @@ test_cases:
     MAXIMA_TCM_RPM_2: 2037
   response: 7E90562120F07F5
 - expected_values:
-    MAXIMA_TCM_RPM_2: 2128
-  response: 7E90562120F0850
+    MAXIMA_TCM_RPM_2: 2059
+  response: 7E90562120F080B

@@ -5,4 +5,4 @@ test_cases:
   response: 7E90562121F0018
 - expected_values:
     MAXIMA_TCM_SOL_MON_2: 0
-  response: 7E90562121F00C9
+  response: 7E90562121F00CF

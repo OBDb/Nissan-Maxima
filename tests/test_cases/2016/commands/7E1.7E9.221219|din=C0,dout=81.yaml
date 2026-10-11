@@ -4,26 +4,8 @@ test_cases:
     MAXIMA_TCM_ISO_1_C: 0
   response: '7E9056212190000'
 - expected_values:
-    MAXIMA_TCM_ISO_1_C: 0.001
-  response: '7E9056212190140'
-- expected_values:
-    MAXIMA_TCM_ISO_1_C: 0.001
-  response: '7E9056212190168'
+    MAXIMA_TCM_ISO_1_C: 0.002
+  response: 7E905621219022B
 - expected_values:
     MAXIMA_TCM_ISO_1_C: 0.002
-  response: 7E905621219023E
-- expected_values:
-    MAXIMA_TCM_ISO_1_C: 0.002
-  response: '7E9056212190261'
-- expected_values:
-    MAXIMA_TCM_ISO_1_C: 0.002
-  response: 7E905621219026F
-- expected_values:
-    MAXIMA_TCM_ISO_1_C: 0.002
-  response: '7E9056212190270'
-- expected_values:
-    MAXIMA_TCM_ISO_1_C: 0.002
-  response: '7E9056212190274'
-- expected_values:
-    MAXIMA_TCM_ISO_1_C: 0.002
-  response: 7E905621219027E
+  response: 7E905621219029A

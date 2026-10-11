@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221123
+test_cases:
+- expected_values:
+    MAXIMA_F_RAT_ADJ: -3
+  response: '7E80462112361'
+- expected_values:
+    MAXIMA_F_RAT_ADJ: -2
+  response: '7E80462112362'
+- expected_values:
+    MAXIMA_F_RAT_ADJ: -1
+  response: '7E80462112363'
+- expected_values:
+    MAXIMA_F_RAT_ADJ: 0
+  response: '7E80462112364'
+- expected_values:
+    MAXIMA_F_RAT_ADJ: 1
+  response: '7E80462112365'

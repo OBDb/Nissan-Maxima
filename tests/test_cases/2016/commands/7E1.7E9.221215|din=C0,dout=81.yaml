@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.221215|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_PRI_TQ: 23.3
+    MAXIMA_TCM_PRI_TQ: 23.3
   response: 7E90562121500E9
 - expected_values:
-    NISSAN_TCM_PRI_TQ: 51.3
+    MAXIMA_TCM_PRI_TQ: 51.3
   response: '7E9056212150201'
 - expected_values:
-    NISSAN_TCM_PRI_TQ: 152.3
+    MAXIMA_TCM_PRI_TQ: 152.3
   response: 7E90562121505F3
 - expected_values:
-    NISSAN_TCM_PRI_TQ: -25.4
+    MAXIMA_TCM_PRI_TQ: -25.4
   response: 7E905621215FF02

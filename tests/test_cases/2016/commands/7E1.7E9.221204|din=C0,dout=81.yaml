@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221204|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_RPM: 643
+    MAXIMA_TCM_RPM: 643
   response: '7E9056212040283'
 - expected_values:
-    NISSAN_TCM_RPM: 746
+    MAXIMA_TCM_RPM: 746
   response: 7E90562120402EA
 - expected_values:
-    NISSAN_TCM_RPM: 2056
+    MAXIMA_TCM_RPM: 2056
   response: '7E9056212040808'

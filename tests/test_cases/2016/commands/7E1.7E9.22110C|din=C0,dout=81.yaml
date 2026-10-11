@@ -1,32 +1,32 @@
 command_id: 7E1.7E9.22110C|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_ATF_T: 73
+    MAXIMA_TCM_ATF_T: 73
   response: 7E90462110C71
 - expected_values:
-    NISSAN_TCM_ATF_T: 77
+    MAXIMA_TCM_ATF_T: 77
   response: 7E90462110C75
 - expected_values:
-    NISSAN_TCM_ATF_T: 79
+    MAXIMA_TCM_ATF_T: 79
   response: 7E90462110C77
 - expected_values:
-    NISSAN_TCM_ATF_T: 80
+    MAXIMA_TCM_ATF_T: 80
   response: 7E90462110C78
 - expected_values:
-    NISSAN_TCM_ATF_T: 81
+    MAXIMA_TCM_ATF_T: 81
   response: 7E90462110C79
 - expected_values:
-    NISSAN_TCM_ATF_T: 82
+    MAXIMA_TCM_ATF_T: 82
   response: 7E90462110C7A
 - expected_values:
-    NISSAN_TCM_ATF_T: 84
+    MAXIMA_TCM_ATF_T: 84
   response: 7E90462110C7C
 - expected_values:
-    NISSAN_TCM_ATF_T: 87
+    MAXIMA_TCM_ATF_T: 87
   response: 7E90462110C7F
 - expected_values:
-    NISSAN_TCM_ATF_T: 89
+    MAXIMA_TCM_ATF_T: 89
   response: 7E90462110C81
 - expected_values:
-    NISSAN_TCM_ATF_T: 91
+    MAXIMA_TCM_ATF_T: 91
   response: 7E90462110C83

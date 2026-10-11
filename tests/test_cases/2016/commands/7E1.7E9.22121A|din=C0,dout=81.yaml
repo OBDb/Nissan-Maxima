@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.22121A|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_ISO_2_C: 0
+    MAXIMA_TCM_ISO_2_C: 0
   response: 7E90562121A0079
 - expected_values:
-    NISSAN_TCM_ISO_2_C: 0.002
+    MAXIMA_TCM_ISO_2_C: 0.002
   response: 7E90562121A02FD
 - expected_values:
-    NISSAN_TCM_ISO_2_C: 0.003
+    MAXIMA_TCM_ISO_2_C: 0.003
   response: 7E90562121A0300

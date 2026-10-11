@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221208|din=C0,dout=81
 test_cases:
 - expected_values:
-    NISSAN_TCM_G_V: 0.001
+    MAXIMA_TCM_G_V: 0.001
   response: 7E905621208000A
 - expected_values:
-    NISSAN_TCM_G_V: -0.077
+    MAXIMA_TCM_G_V: -0.077
   response: 7E905621208FCFE
 - expected_values:
-    NISSAN_TCM_G_V: -0.01
+    MAXIMA_TCM_G_V: -0.01
   response: 7E905621208FF9C

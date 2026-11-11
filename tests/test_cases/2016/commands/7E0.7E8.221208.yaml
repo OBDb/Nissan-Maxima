@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221208
+test_cases:
+- expected_values:
+    MAXIMA_FUEL_BASE_WIDTH: 3.18213
+  response: '7E8056212081975'
+- expected_values:
+    MAXIMA_FUEL_BASE_WIDTH: 3.20557
+  response: 7E80562120819A5
+- expected_values:
+    MAXIMA_FUEL_BASE_WIDTH: 3.43994
+  response: 7E8056212081B85
+- expected_values:
+    MAXIMA_FUEL_BASE_WIDTH: 3.51807
+  response: 7E8056212081C25
+- expected_values:
+    MAXIMA_FUEL_BASE_WIDTH: 3.58594
+  response: 7E8056212081CB0
+- expected_values:
+    MAXIMA_FUEL_BASE_WIDTH: 3.59229
+  response: 7E8056212081CBD
+- expected_values:
+    MAXIMA_FUEL_BASE_WIDTH: 3.62109
+  response: 7E8056212081CF8

@@ -4,5 +4,8 @@ test_cases:
     MAXIMA_VARIABLE_VLV_TIM_OIL_T: 30
   response: 7E80462111F50
 - expected_values:
+    MAXIMA_VARIABLE_VLV_TIM_OIL_T: 91
+  response: 7E80462111F8D
+- expected_values:
     MAXIMA_VARIABLE_VLV_TIM_OIL_T: 106
   response: 7E80462111F9C

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     MAXIMA_F_RAT_ADJ: 6
   response: 7E8046211236A
+- expected_values:
+    MAXIMA_F_RAT_ADJ: 7
+  response: 7E8046211236B

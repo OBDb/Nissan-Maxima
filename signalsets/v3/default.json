@@ -128,7 +128,7 @@
   "signals": [
     {"id": "MAXIMA_MANIFOLD_P_SENS_V", "path": "Battery", "fmt": { "len": 8, "max": 5.1, "div": 50, "unit": "volts" }, "name": "Manifold pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1135"}, "freq": 1, "dbgfilter": { "to": 2013, "from": 2015 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1135"}, "freq": 1, "dbgfilter": { "to": 2013, "years": [2015], "from": 2017 },
   "signals": [
     {"id": "MAXIMA_CAM_ADV_ANG", "path": "Engine", "fmt": { "len": 8, "max": 63.5, "min": -64, "div": 2, "add": -64, "unit": "degrees" }, "name": "Camshaft adv angle"}
   ]},
@@ -156,7 +156,7 @@
   "signals": [
     {"id": "MAXIMA_CURRENT_RPM", "path": "Movement", "fmt": { "len": 16, "max": 819187, "mul": 25, "div": 2, "unit": "rpm" }, "name": "Current engine speed"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1204"}, "freq": 1, "dbgfilter": { "to": 2013, "from": 2015 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1204"}, "freq": 1, "dbgfilter": { "to": 2013, "years": [2015], "from": 2017 },
   "signals": [
     {"id": "MAXIMA_MAF_VOLTS", "path": "Battery", "fmt": { "len": 16, "max": 327, "div": 200, "unit": "volts" }, "name": "Mass air flow volts"}
   ]},
@@ -285,7 +285,7 @@
   "signals": [
     {"id": "MAXIMA_GEARBOX_RAT", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gearbox ratio"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "din": "C0", "dout": "81", "dbg": true, "cmd": {"21": "01"}, "freq": 5,
+{ "hdr": "7E1", "rax": "7E9", "din": "C0", "dout": "81", "cmd": {"21": "01"}, "freq": 5, "dbgfilter": { "to": 2015, "from": 2017 },
   "signals": [
     {"id": "MAXIMA_OUTPUT_SPD",   "path": "Movement",     "fmt": {"bix": 40,  "len": 16, "max": 65535,                                                              "unit": "rpm"        }, "name": "Output speed"},
     {"id": "MAXIMA_TURBINE_SPD",  "path": "Movement",     "fmt": {"bix": 56,  "len": 16, "max": 65535,                                                              "unit": "rpm"        }, "name": "Turbine speed"},
@@ -316,7 +316,7 @@
   "signals": [
     {"id": "MAXIMA_TCM_VSS", "path": "Movement", "fmt": { "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Vehicle speed", "suggestedMetric": "speed"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "din": "C0", "dout": "81", "dbg": true, "cmd": {"22": "110A"}, "freq": 1,
+{ "hdr": "7E1", "rax": "7E9", "din": "C0", "dout": "81", "cmd": {"22": "110A"}, "freq": 1, "dbgfilter": { "to": 2015, "from": 2017 },
   "signals": [
     {"id": "MAXIMA_TCM_SEC_P", "path": "Transmission", "fmt": { "len": 16, "max": 1638375, "mul": 25, "unit": "kilopascal" }, "name": "Secondary pulley pressure"}
   ]},

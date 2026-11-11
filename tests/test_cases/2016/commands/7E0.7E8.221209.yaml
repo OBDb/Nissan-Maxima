@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221209
+test_cases:
+- expected_values:
+    MAXIMA_MAF: 4.64
+  response: 7E80562120901D0
+- expected_values:
+    MAXIMA_MAF: 4.71
+  response: 7E80562120901D7
+- expected_values:
+    MAXIMA_MAF: 5.04
+  response: 7E80562120901F8
+- expected_values:
+    MAXIMA_MAF: 5.08
+  response: 7E80562120901FC
+- expected_values:
+    MAXIMA_MAF: 5.13
+  response: '7E8056212090201'
+- expected_values:
+    MAXIMA_MAF: 5.2
+  response: '7E8056212090208'

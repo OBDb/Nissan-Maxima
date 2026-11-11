@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22110A
+test_cases:
+- expected_values:
+    MAXIMA_IGN_TIM_ADVANCE: 28
+  response: 7E80462110A52
+- expected_values:
+    MAXIMA_IGN_TIM_ADVANCE: 11
+  response: 7E80462110A63
+- expected_values:
+    MAXIMA_IGN_TIM_ADVANCE: 9
+  response: 7E80462110A65
+- expected_values:
+    MAXIMA_IGN_TIM_ADVANCE: 8
+  response: 7E80462110A66
+- expected_values:
+    MAXIMA_IGN_TIM_ADVANCE: 7
+  response: 7E80462110A67

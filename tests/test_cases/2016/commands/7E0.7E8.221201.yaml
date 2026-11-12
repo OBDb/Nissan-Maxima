@@ -7,11 +7,5 @@ test_cases:
     MAXIMA_CURRENT_RPM: 750
   response: 7E805621201003C
 - expected_values:
-    MAXIMA_CURRENT_RPM: 762.5
-  response: 7E805621201003D
-- expected_values:
-    MAXIMA_CURRENT_RPM: 787.5
-  response: 7E805621201003F
-- expected_values:
-    MAXIMA_CURRENT_RPM: 812.5
-  response: '7E8056212010041'
+    MAXIMA_CURRENT_RPM: 2800
+  response: 7E80562120100E0

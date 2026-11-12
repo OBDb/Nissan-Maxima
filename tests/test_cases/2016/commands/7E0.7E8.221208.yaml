@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     MAXIMA_FUEL_BASE_WIDTH: 3.62109
   response: 7E8056212081CF8
+- expected_values:
+    MAXIMA_FUEL_BASE_WIDTH: 3.91016
+  response: 7E8056212081F48

@@ -129,6 +129,7 @@ supported_commands_by_ecu:
   - 7E0.7E8.221203
   - 7E0.7E8.221203|din=C0,dout=81:NI_MIL_DIST
   - 7E0.7E8.221208|din=C0,dout=81:NI_MAFVB1
+  - 7E0.7E8.221209
   - 7E0.7E8.221209|din=C0,dout=81:NI_MAF
   - 7E0.7E8.22120D|din=C0,dout=81:NI_APP1_V
   - 7E0.7E8.22120E|din=C0,dout=81:NI_APP2_V

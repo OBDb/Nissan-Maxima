@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     MAXIMA_EVAP_PURGE_DUTY: 36.5
   response: '7E80462111049'
+- expected_values:
+    MAXIMA_EVAP_PURGE_DUTY: 94
+  response: 7E804621110BC
